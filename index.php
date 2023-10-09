@@ -1,1 +1,131 @@
+<header class="contrast py-5 mb-5">
+    <div class="container h-100">
+        <div class="row h-100 align-items-center">
+            <div class="col-lg-12">
+                <h1 class="display-4 mt-1 mb-2">frag-einfa.ch - Frag' einfach!</h1>
+                <p class="lead mb-1 ">Eine Initiative um Chatpartner dazu zu ermutigen, ihre Fragen direkt zu
+                    stellen.</p>
+            </div>
+        </div>
+    </div>
+</header>
 
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 mb-5 ">
+            <p>Du bist wahrscheinlich auf dieser Seite gelandet, da du jemanden ineffizient angeschrieben hast. Im
+            Folgenden wird dir gezeigt, wie man Personen anschreiben sollte und warum.</p>
+            <br>
+            <h1>Kein Hallo</h1>
+
+            <p>Wenn du etwas von jemanden möchtest, mit dem du zuvor noch nicht kommuniziert hast, gehört es sich, ihn zu
+            begrüßen. <br>Ein "Hallo" benötigt jedoch keine seperate Nachricht.</p>
+            
+            <div class="card">
+                <div class="card-body">
+                    <p class="card-text">
+                        Du: Hallo.<br>
+                        Chatpartner: Hallo, was gibt's?
+                    </p>
+                </div>
+            </div>
+            <br>
+            <p>Anstatt den Chatpartner also dazu zu zwingen, dich nach deinem Anliegen zu fragen, kannst du dein Anliegen einfach direkt hinter die Nachricht schreiben. So ersparst du nicht nur deinem Chatpartner Zeit und Nerven,
+            dein Anliegen kann auch direkt und somit schneller beantwortet werden. <br>Optimal sieht das dann also so aus:</p>
+            
+            <div class="card">
+                <div class="card-body">
+                    <p class="card-text">
+                        Du: Hallo, kannst du bitte ...<br>
+                        Chatpartner: Ja, klar! Hier hast du ...
+                    </p>
+                </div>
+            </div>
+            <br><br>
+            <h1>Ja, ich bin da, du darfst fragen und ich kann dir auch helfen</h1>
+            
+            <p>Eine weitere Frage, deren Antwort für dein Anliegen nicht wichtig ist, wäre die Frage, ob dein Gegenüber anwesend ist. Erstens hat diese Information keine Relevanz für dein Anliegen, zweitens ist nur eine Antwort auf diese
+            Frage möglich: "Ja". Auch wenn das "Ja" verspätet kommt, eine andere Antwort kannst du nicht erhalten. Darum ist es vollkommen sinnlos, diese Frage zu stellen.</p>
+            
+            <div class="card">
+                <div class="card-body">
+                    <p class="card-text">
+                        Du: Hallo, bist du da?<br>
+                        Chatpartner: Ja, bin ich. Was gibt es?
+                    </p>
+                </div>
+            </div>
+            <br>
+            <p>Seinen Chatpartner zu fragen, ob du ihm eine Frage stellen darfst, ist in sich bereits widersprüchlich, denn mit dieser Frage stellst du ihm ja bereits eine Frage. Zudem würde euch euer Chatpartner niemals sagen,
+            dass ihr ihm keine Frage stellen dürft. Deshalb ist folgendes ein No-Go:</p>
+            
+            <div class="card">
+                <div class="card-body">
+                    <p class="card-text">
+                        Du: Hallo, darf ich dir eine Frage stellen?<br>
+                        Chatpartner: Ja klar, schieß los.
+                    </p>
+                </div>
+            </div>
+            <br>
+            <p>Ähnlich zu diesem Beispiel ist es auch unnötig, zu fragen, ob dein Chatpartner dir helfen kann. Wenn er dir antwortet, wird er sich sicherlich bemühen, dir zu helfen.
+            Zudem weiß euer Gegenüber garantiert auch nicht, ob er helfen kann. Daher macht es keinen Sinn, ihn so zu fragen:</p>
+            
+            <div class="card">
+                <div class="card-body">
+                    <p class="card-text">
+                        Du: Hallo, kannst du mir helfen?<br>
+                        Chatpartner: Ich werde es versuchen, worum geht's?
+                    </p>
+                </div>
+            </div>
+            <br>
+            <p>Statt also zunächst unnötige Fragen zu stellen, ist es deutlich effektiver, direkt dein Anliegen zu formulieren. Du kannst hierbei durchaus zuerst einleiten, indem du deinem Chatpartner mitteilst, dass du ein Problem/eine Frage hast.
+            Eine seperate Nachricht benötigt diese Einleitung jedoch nicht.</p>
+            
+            <div class="card">
+                <div class="card-body">
+                    <p class="card-text">
+                        Du: Hallo, ich habe ein Problem/eine Frage: Ich kann nicht .... Kannst du mir dabei helfen?<br>
+                        Chatpartner: Ja klar, du musst ...<br>
+                        Du: Danke!<br>
+                        Chatpartner: Gerne!
+                    </p>
+                </div>
+            </div>
+            <br><br>
+            <h1>Erst denken, dann absenden</h1>
+            
+            <p>Bevor du eine Nachricht absendest, solltest du vorher einige Dinge überprüfen:</p>
+
+            <ul>
+                <li>Ist meine Nachricht verständlich?</li>
+                <li>Ist meine Nachricht grammatikalisch und ortographisch (= Rechtschreibung) korrekt oder zumindest hinnehmbar?</li>
+                <li>Benötigt mein Chatpartner noch weitere Informationen, um mir zu helfen? Bedenke dabei, dass dein Chatpartner Informationen nicht hat, die du selbst jedoch hast und somit fälschlicherweise vorraussetzt.</li>
+                <li>Kann ich bestimmte Informationen weglassen, die nichts mit meinem Anliegen zu tun haben?</li>
+            </ul>
+			<br><br>
+            <h1>Warum ist das effektiver?</h1>
+            
+            <p>Mit einer höflichen Frage vorweg, oder einem seperaten Hallo, versuchst du, eine mündliche Konversation nachzuahmen. In Gesprächen würde man sich definitiv zuerst begrüßen, bevor man sein Anliegen formuliert.
+            Schreiben ist jedoch deutlich langsamer. Dein Versuch der Höflichkeit sorgt eher dafür, dass du einen Chatpartner unnötig lange warten lässt, da er auf eine Rückantwort von dir warten muss.
+            Zudem zögerst du die Antwort deines Partners nicht unnötig heraus. Ist dieser nämlich gerade nicht am Computer, oder schaut grade nicht auf sein Handy, dann sieht er deine Nachricht erst später.
+            Sobald er dann geantwortet hat, siehst du vielleicht seine Nachricht nicht direkt und es vergeht wieder Zeit. Deine Antwort liest der Andere wiederum dann erst später usw. Somit zögerst du den Chat in die Länge.
+            Versuche daher, deine Informationen in möglichst wenige Nachrichten zu verstauen - das geht auch, ohne dabei unhöflich zu werden!</p>
+
+        </div>
+    </div>
+</div>
+<!--
+<footer class="py-3">
+    <div class="container">
+		<ul class="copyright">
+            <li>frag-einfa.ch &copy; 2022 by <a href="" target="_blank">Nerdscave</a> &amp; █</li>
+            <li><a href="" target="_blank">Impressum &amp; Datenschutz</a></li>
+            <li><a href="#" id="changePreferences">Cookie-Einstellungen ändern</a></li>
+        </ul>
+    </div>
+-->
+</footer>
+</body>
+</html>
