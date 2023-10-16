@@ -2,6 +2,8 @@
 Domains:
 frag-einfa.ch
 frageinfa.ch
+frag-glei.ch
+fragglei.ch
 
 Inspiration von https://github.com/elektr0nisch / https://elektronisch.dev
 
